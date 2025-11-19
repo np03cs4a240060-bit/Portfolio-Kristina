@@ -73,6 +73,12 @@ nav a:hover {
     border-radius: 10px;
     margin-bottom: 15px;
 }
+.img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+}
+
 
 /* FORM */
 form {
@@ -111,3 +117,4 @@ footer {
     padding: 15px;
     margin-top: 40px;
 }
+
